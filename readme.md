@@ -1,5 +1,5 @@
 # Scripts
 
-Here is the list according to commits
+Here is the list:
 
 1. Pig Latin
