@@ -29,3 +29,4 @@ def english_to_pig_latin(eng):
     return 'The Pig Latin equivalent is: ' + ' '.join(output)
 
 print(english_to_pig_latin(entry))
+
