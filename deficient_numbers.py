@@ -8,12 +8,14 @@ factors of 16 are 1, 2, 4, 8, 16
 sum of the factors is 31
 twice of 16 is 32
 31 is less than 32
+Output: True
 
 18 is not a deficient number
 factors of 18 are 1, 2, 3, 6, 9, 18
 sum of the factors is 39
 twice of 18 is 36
 39 is greater than 36
+Output: False
 
 '''
 
