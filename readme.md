@@ -7,3 +7,4 @@ Here is the list:
 3. Deficient Numbers
 4. Abundant Numbers
 5. Armstrong Numbers
+6. Disarium Numbers
