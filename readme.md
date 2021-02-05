@@ -8,3 +8,4 @@ Here is the list:
 4. Abundant Numbers
 5. Armstrong Numbers
 6. Disarium Numbers
+7. Emirp Numbers
