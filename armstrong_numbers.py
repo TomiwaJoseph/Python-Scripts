@@ -34,7 +34,7 @@ entry = int(input('Enter your number: '))
 print(armstrong(entry))
 print()
 
-print('Armstrong number within your input range are:')
+print('Armstrong numbers within your input range are:')
 
 armst_range = [i for i in range(entry) if armstrong(i)]
 print(armst_range)
