@@ -30,5 +30,5 @@ print()
 
 print('Spy numbers within your input range are:')
 
-emirp_range = [i for i in range(entry) if spy(i)]
-print(emirp_range)
+spy_range = [i for i in range(entry) if spy(i)]
+print(spy_range)
