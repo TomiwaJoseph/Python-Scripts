@@ -9,3 +9,4 @@ Here is the list:
 5. Armstrong Numbers
 6. Disarium Numbers
 7. Emirp Numbers
+8. Spy Numbers
