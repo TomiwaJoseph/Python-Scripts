@@ -11,3 +11,4 @@ Here is the list:
 7. Emirp Numbers
 8. Spy Numbers
 9. Automorphic Numbers
+10. Harshad Numbers
