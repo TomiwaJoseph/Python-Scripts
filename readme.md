@@ -10,3 +10,4 @@ Here is the list:
 6. Disarium Numbers
 7. Emirp Numbers
 8. Spy Numbers
+9. Automorphic Numbers
