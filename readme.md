@@ -12,3 +12,4 @@ Here is the list:
 8. Spy Numbers
 9. Automorphic Numbers
 10. Harshad Numbers
+11. Fisher Numbers
