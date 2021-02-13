@@ -13,3 +13,4 @@ Here is the list:
 9. Automorphic Numbers
 10. Harshad Numbers
 11. Fisher Numbers
+12. Lab Numbers
