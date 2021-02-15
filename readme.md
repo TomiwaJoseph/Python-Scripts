@@ -14,3 +14,4 @@ Here is the list:
 10. Harshad Numbers
 11. Fisher Numbers
 12. Lab Numbers
+13. Pandigital Numbers
