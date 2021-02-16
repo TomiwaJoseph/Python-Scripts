@@ -15,3 +15,4 @@ Here is the list:
 11. Fisher Numbers
 12. Lab Numbers
 13. Pandigital Numbers
+14. Perfect Numbers
