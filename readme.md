@@ -16,3 +16,4 @@ Here is the list:
 12. Lab Numbers
 13. Pandigital Numbers
 14. Perfect Numbers
+15. Ugly Numbers
