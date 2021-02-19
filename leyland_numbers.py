@@ -2,6 +2,10 @@
 A Leyland number is a number which can be expressed as a^b + b^a
 where a and b are integers greater than 1
 
+For example:
+17 is a Leyland Number
+3**2 + 2**3 == 17
+
 '''
 print()
 
