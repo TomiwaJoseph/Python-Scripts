@@ -17,3 +17,4 @@ Here is the list:
 13. Pandigital Numbers
 14. Perfect Numbers
 15. Ugly Numbers
+16. Leyland Numbers
