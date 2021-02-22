@@ -19,3 +19,4 @@ Here is the list:
 15. Ugly Numbers
 16. Leyland Numbers
 17. Composite Numbers
+18. Trimorphic Numbers
