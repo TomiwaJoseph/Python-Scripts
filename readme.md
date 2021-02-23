@@ -20,3 +20,4 @@ Here is the list:
 16. Leyland Numbers
 17. Composite Numbers
 18. Trimorphic Numbers
+19. Twin Prime Numbers
