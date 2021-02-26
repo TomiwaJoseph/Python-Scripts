@@ -21,3 +21,4 @@ Here is the list:
 17. Composite Numbers
 18. Trimorphic Numbers
 19. Twin Prime Numbers
+20. SemiPrime Numbers
