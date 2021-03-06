@@ -23,3 +23,5 @@
 19. Twin Prime Numbers
 20. SemiPrime Numbers
 21. Palindrome Numbers
+22. Neighbor Numbers
+23. Pronic Numbers
