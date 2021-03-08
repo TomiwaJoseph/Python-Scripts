@@ -25,3 +25,4 @@
 21. Palindrome Numbers
 22. Neighbor Numbers
 23. Pronic Numbers
+24. Prime Cousin Numbers
