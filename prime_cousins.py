@@ -23,7 +23,6 @@ def cousin_prime(number):
     twins = [(x,y) for x in find_primes for y in find_primes if y-x == 4]
     return twins
 
-# entry = int(input('Enter your range seperated with a comma: '))
 entry = input("Enter two numbers seperated with a comma: ") or '5,20'
 print(cousin_prime(entry))
 print()
