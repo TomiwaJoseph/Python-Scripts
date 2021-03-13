@@ -27,3 +27,4 @@
 23. Pronic Numbers
 24. Prime Cousin Numbers
 25. Sexy Prime Numbers
+26. Happy Numbers
