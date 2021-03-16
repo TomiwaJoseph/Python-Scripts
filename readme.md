@@ -28,3 +28,4 @@
 24. Prime Cousin Numbers
 25. Sexy Prime Numbers
 26. Happy Numbers
+27. Neon Numbers
