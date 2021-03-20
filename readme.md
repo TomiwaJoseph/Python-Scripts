@@ -29,3 +29,4 @@
 25. Sexy Prime Numbers
 26. Happy Numbers
 27. Neon Numbers
+28. Anti-Lychrel Numbers
