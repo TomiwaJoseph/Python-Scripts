@@ -30,7 +30,3 @@
 26. Happy Numbers
 27. Neon Numbers
 28. Anti-Lychrel Numbers
-
-
-## Website Exercises
-1. w3resource.com
