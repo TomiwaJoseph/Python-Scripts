@@ -1,6 +1,6 @@
 # Scripts
 
-## Here is the list:
+## Numbers:
 
 1. Pig Latin
 2. Gapful Numbers
@@ -30,3 +30,7 @@
 26. Happy Numbers
 27. Neon Numbers
 28. Anti-Lychrel Numbers
+
+
+## Website Exercises
+1. w3resource.com
